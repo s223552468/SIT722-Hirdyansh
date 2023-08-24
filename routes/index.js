@@ -79,6 +79,45 @@ const nameList =[
  {
   'id':20,'Term':'Complex-Adaptive System (CAS)','Defination':'A system in which complete understanding of the individual components does not imply complete understanding of the systems behavior.Examples include goverments,  markets, and climates ',
  'Refrences':'Plutora. (n.d.). DevOps DevOps Terminology: A Glossary. [online] Available at:"https://www.plutora.com/devops-at-scale/terminology-glossary">"'
+ },
+ {
+  'id':21,'Term':'SandBox','Defination':'A virtual netowork of computer is comparable to a computer sandbox. If we abruptly  delete something or make a mistake inside our network territory in computer . Only the contents of the network , not your computer itself, can be damaged if someone tries to break through it, and how much harm they cause depends on their level of expert knowledge.  ',
+ 'Refrences':'Technologies, M. (2021). Basic Terminologies of Docker - Docker Tutorial. [online] Mindmajix. Available at: https://mindmajix.com/docker/basic-terminologies-of-docker"'
+ },{
+  'id':22,'Term':'Docker Container','Defination':'Docker containers are like a storage device  to have dynamic clones of Docker images. Multiple containers can be created from a single image, assuring DevOps consistency. The key benefit is process isolation. They are built layer by layer on top of images, the fundamental building block of Docker containers, and are transient (writable nature). ',
+ 'Refrences':'Technologies, M. (2021). Basic Terminologies of Docker - Docker Tutorial. [online] Mindmajix. Available at: https://mindmajix.com/docker/basic-terminologies-of-docker"'
+ },
+ {
+  'id':23,'Term':'Docker Images','Defination':'Docker images  can easily be shared on any platform or store them like files. To save space and allow for part reuse, they are stored in docker containers. Furthermore, Docker images are fixed and unchangable once they are created, so unless you not updating them, their contents wont change. ',
+ 'Refrences':'Technologies, M. (2021). Basic Terminologies of Docker - Docker Tutorial. [online] Mindmajix. Available at: https://mindmajix.com/docker/basic-terminologies-of-docker"'
+ },
+ {
+  'id':24,'Term':'Docker Repository','Defination':' Docker repository is a digital storage warehouse for docker images through a network or the internet. It works in two different ways; you may pull images from it or push your Docker images to it.  ',
+ 'Refrences':'Technologies, M. (2021). Basic Terminologies of Docker - Docker Tutorial. [online] Mindmajix. Available at: https://mindmajix.com/docker/basic-terminologies-of-docker"'
+ },
+ {
+  'id':25,'Term':'Docker Hub','Defination':'Docker Hub plays a vital role in the Docker technology and a prime illustration of a public repository. It encourages collaboration by offering features like picture hosting. Docker Hub is a versatile tool for developers that can serve as both private and public storage for Docker.',
+ 'Refrences':'Technologies, M. (2021). Basic Terminologies of Docker - Docker Tutorial. [online] Mindmajix. Available at: https://mindmajix.com/docker/basic-terminologies-of-docker"'
+ },
+ {
+  'id':26,'Term':'Docker Daemon','Defination':'The Docker daemon is the engine that manages containers on the host system. Users can only communicate with it through Docker clients, who act as intermediaries and do the talking on their behalf with the daemon. ',
+ 'Refrences':'Technologies, M. (2021). Basic Terminologies of Docker - Docker Tutorial. [online] Mindmajix. Available at: https://mindmajix.com/docker/basic-terminologies-of-docker"'
+ },
+ {
+  'id':27,'Term':'Docker Client','Defination':'A application called the Docker Client, which act as Docker boss, is used to communicate with Docker. Its like having the manager speak a binary dialect of the Docker language. The Docker client is responsible for transmitting commands from the Docker daemon, the worker who completes the task, to the client, after which there is back-and-forth communication between them. ',
+ 'Refrences':'Technologies, M. (2021). Basic Terminologies of Docker - Docker Tutorial. [online] Mindmajix. Available at: https://mindmajix.com/docker/basic-terminologies-of-docker"'
+ },
+ {
+  'id':28,'Term':'Docker Swarm','Defination':'Docker Swarm is like a place where you can manage and access a group of Docker hosts using Docker tools. It acts as a valuable interface for Docker, so any tool talking to Docker can seamlessly use Swarm to scale across multiple hosts. It same as having a  universal control center for your Docker army. ',
+ 'Refrences':'Technologies, M. (2021). Basic Terminologies of Docker - Docker Tutorial. [online] Mindmajix. Available at: https://mindmajix.com/docker/basic-terminologies-of-docker"'
+ },
+ {
+  'id':29,'Term':'Azure Container Registory','Defination':'A repository for all OCI artifact types, serving as a comprehensive archive for container images and related resources, is known as a registry for Docker and OCI images. ',
+ 'Refrences':'azure.microsoft.com. (n.d.). Azure Container Registry | Microsoft Azure. [online] Available at: https://azure.microsoft.com/en-us/products/container-registry"'
+ },
+ {
+  'id':30,'Term':'Azure Storage','Defination':'An Azure storage account, which functions as a virtual safe for all of your Azure Storage data, is where blobs, files, queues, and tables are all kept. Every bit of information is given a unique address that may be accessed via web protocols (HTTP or HTTPS) from any point on the planet. ',
+ 'Refrences':'jimmart-dev (n.d.). Storage account overview - Azure Storage. [online] learn.microsoft.com. Available at: "https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview".'
  }
 ]
 
