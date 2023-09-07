@@ -118,6 +118,46 @@ const nameList =[
  {
   'id':30,'Term':'Azure Storage','Defination':'An Azure storage account, which functions as a virtual safe for all of your Azure Storage data, is where blobs, files, queues, and tables are all kept. Every bit of information is given a unique address that may be accessed via web protocols (HTTP or HTTPS) from any point on the planet. ',
  'Refrences':'jimmart-dev (n.d.). Storage account overview - Azure Storage. [online] learn.microsoft.com. Available at: "https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview".'
+ },
+ {
+  'id':31,'Term':'Terraform API','Defination':'Application Programming Interfaces, or APIs, serve as bridges for software communication. In the context of Terraform, they are indispensable for the supervision of cloud resources (e.g., AWS or Azure) and the execution of Terraform Cloud functions, empowering Terraform to autonomously self-manage via the tfe provider. ',
+ 'Refrences':'Terraform Glossary | Terraform | HashiCorp Developer. (n.d.). Terraform Glossary | Terraform | HashiCorp Developer. [online] Available at: "https://developer.hashicorp.com/terraform/docs/glossary".'
+ },
+ {
+  'id':32,'Term':'Blob Storage','Defination':'it is like a digital filing system (e.g., AWS S3) for storing and finding data with special addresses. If you are in charge of Terraform Enterprise, you might need to set up and manage this storage system. ',
+ 'Refrences':'Terraform Glossary | Terraform | HashiCorp Developer. (n.d.). Terraform Glossary | Terraform | HashiCorp Developer. [online] Available at: "https://developer.hashicorp.com/terraform/docs/glossary".'
+ },
+ {
+  'id':33,'Term':'CI/CD','Defination':'CI/CD streamlines releases by automating tasks in response to events (like code changes), and Terraform infrastructure as code can seamlessly integrate into this automated process for efficient operations. ',
+ 'Refrences':'Terraform Glossary | Terraform | HashiCorp Developer. (n.d.). Terraform Glossary | Terraform | HashiCorp Developer. [online] Available at: "https://developer.hashicorp.com/terraform/docs/glossary".'
+ },
+ {
+  'id':34,'Term':'(Terraform) Configuration','Defination':'Terraform configuration code defines how you want your infrastructure to be, specifying the desired state. A full configuration includes a main module, which can also utilize various sub-modules as needed.  ',
+ 'Refrences':'Terraform Glossary | Terraform | HashiCorp Developer. (n.d.). Terraform Glossary | Terraform | HashiCorp Developer. [online] Available at: "https://developer.hashicorp.com/terraform/docs/glossary".'
+ },
+ {
+  'id':35,'Term':'Cost Estimation','Defination':'In Terraform Cloud, within a run, the platform analyzes the plan data, calculating costs for resources in both the current and proposed states. It then compares these estimated costs to identify the cost variation, which can be applied in Sentinel policies. ',
+ 'Refrences':'Terraform Glossary | Terraform | HashiCorp Developer. (n.d.). Terraform Glossary | Terraform | HashiCorp Developer. [online] Available at: "https://developer.hashicorp.com/terraform/docs/glossary".'
+ },
+ {
+  'id':36,'Term':'Kubernet cluster','Defination':'Clusters consist of worker nodes, which are machines that run containerized applications. Every cluster is required to have at least a single worker node. ',
+ 'Refrences':'Kubernetes. (n.d.). Glossary. [online] Available at: "https://kubernetes.io/docs/reference/glossary/?fundamental=true."".'
+ },
+ {
+  'id':37,'Term':'Container runtime interface (CRI)','Defination':'The Container Runtime Interface (CRI) is an API enabling container runtimes to seamlessly integrate with Kubernetes on a node. ',
+ 'Refrences':'Kubernetes. (n.d.). Glossary. [online] Available at: "https://kubernetes.io/docs/reference/glossary/?fundamental=true.".'
+ },
+ {
+  'id':38,'Term':'Container Environment Variables','Defination':'Within a pod, container environment variables consist of name-value pairs that provide essential information about the running containers. ',
+ 'Refrences':'Kubernetes. (n.d.). Glossary. [online] Available at: "https://kubernetes.io/docs/reference/glossary/?fundamental=true.".'
+ },
+ {
+  'id':39,'Term':'CustomResourceDefinition','Defination':'Specific code that defines a resource for inclusion in your Kubernetes API server without the requirement of creating a full custom server. ',
+ 'Refrences':'Kubernetes. (n.d.). Glossary. [online] Available at: "https://kubernetes.io/docs/reference/glossary/?fundamental=true.".'
+ },
+ {
+  'id':40,'Term':'Finalizer','Defination':'Think of finalizers in Kubernetes as gentle reminders that tell the system to pause before getting rid of something entirely. They help controllers clean up associated resources when you want to delete something.',
+ 'Refrences':'Kubernetes. (n.d.). Glossary. [online] Available at: "https://kubernetes.io/docs/reference/glossary/?fundamental=true.".'
  }
 ]
 
