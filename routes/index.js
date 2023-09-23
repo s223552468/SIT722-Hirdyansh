@@ -158,6 +158,46 @@ const nameList =[
  {
   'id':40,'Term':'Finalizer','Defination':'Think of finalizers in Kubernetes as gentle reminders that tell the system to pause before getting rid of something entirely. They help controllers clean up associated resources when you want to delete something.',
  'Refrences':'Kubernetes. (n.d.). Glossary. [online] Available at: "https://kubernetes.io/docs/reference/glossary/?fundamental=true.".'
+ },
+ {
+  'id':41,'Term':'DevOps Monitoring ','Defination':'Teams can quickly and automatically tackle user experience issues with DevOps monitoring. More importantly, it allows teams to "shift left" to earlier phases of development, avoiding production errors. Better software instrumentation, for example, to manually and automatically find and repair issues.  ',
+ 'Refrences':'Atlassian (n.d.). DevOps Monitoring. [online] Atlassian. Available at: https://www.atlassian.com/devops/devops-tools/devops-monitoring.".'
+ },
+ {
+  'id':42,'Term':'Automated collaboration','Defination':'DevOps necessitates greater collaboration across development, operations, and business teams. Atlassians DevOps research found communication and team cooperation difficult in the absence of tool integration.   ',
+ 'Refrences':'Atlassian (n.d.). DevOps Monitoring. [online] Atlassian. Available at: https://www.atlassian.com/devops/devops-tools/devops-monitoring.".'
+ },
+ {
+  'id':43,'Term':'Experimentation','Defination':'To address client expectations, personalized items and higher conversion funnels necessitate ongoing innovation. With hundreds of tests and feature flags, monitoring systems struggle to identify the root cause of a bad experience in production conditions.  ',
+ 'Refrences':'Atlassian (n.d.). DevOps Monitoring. [online] Atlassian. Available at: https://www.atlassian.com/devops/devops-tools/devops-monitoring.".'
+ },
+ {
+  'id':44,'Term':'Change management','Defination':'Financial and healthcare mission-critical systems require change management because changes have the greatest impact on output. Assess the risks of change and automate approvals.It is critical to investigate and monitor these concerns. Massive, adaptable, and sophisticated monitoring systems are being created and deployed.',
+ 'Refrences':'Atlassian (n.d.). DevOps Monitoring. [online] Atlassian. Available at: https://www.atlassian.com/devops/devops-tools/devops-monitoring.".'
+ },
+ {
+  'id':45,'Term':'Dependent system monitoring','Defination':'Distribution systems with smaller, cross-company services are growing in popularity. Dependent systems necessitate collaboration and availability. AWS provides 175 products in the computing, storage, networking, database, analytics, deployment, administration, mobile, and developer categories. Select the appropriate AWS service for your project. Instrumentation and procedures are required for system maintenance and problem detection.  ',
+ 'Refrences':'Atlassian (n.d.). DevOps Monitoring. [online] Atlassian. Available at: https://www.atlassian.com/devops/devops-tools/devops-monitoring.".'
+ },
+ {
+  'id':46,'Term':'Shift-left testing','Defination':'Shift-left testing early in life improves quality, test cycles, and error rates. The DevOps team need pre-production shift-left testing. Monitoring early and frequently improves manufacturing quality. Monitoring early application activity via essential user journeys and transactions should be used in addition to testing. It reveals that pre-production considerations for performance and availability.  ',
+ 'Refrences':'Atlassian (n.d.). DevOps Monitoring. [online] Atlassian. Available at: https://www.atlassian.com/devops/devops-tools/devops-monitoring.".'
+ },
+ {
+  'id':47,'Term':'Alert and incident management','Defination':'For team development and operations, your alert and incident management system should handle logs, crashes, and so forth. The app should provide critical notifications to your channels rapidly. By merging notifications, you may eliminate alerts. Atlassian Opsgenie is a robust, adaptable, and trustworthy alert and problem management solution for customer and internal development.  ',
+ 'Refrences':'Atlassian (n.d.). DevOps Monitoring. [online] Atlassian. Available at: https://www.atlassian.com/devops/devops-tools/devops-monitoring.".'
+ },
+ {
+  'id':48,'Term':'Application performance monitoring','Defination':'Aside from core system metrics such as CPU and memory utilization, application-specific performance indicators such as page load time, downstream service latencies, or transitions must be monitored. SignalFX and NewRelic are excellent solutions for tracking real-time metrics data.  ',
+ 'Refrences':'Atlassian (n.d.). DevOps Monitoring. [online] Atlassian. Available at: https://www.atlassian.com/devops/devops-tools/devops-monitoring.".'
+ },
+ {
+  'id':49,'Term':'CI/CD environments and testing data','Defination':'Without clean test environments and data, the team cannot automate tests sooner in the CI/CD pipeline. Early team consensus on the testing strategy and infrastructure is required. Create test user accounts and load data using the API. Early infrastructure setup for temporary test environments expedites input on releases.  ',
+ 'Refrences':'Atlassian (n.d.). Test Automation. [online] Atlassian. Available at: https://www.atlassian.com/devops/devops-tools/test-automation.".'
+ },
+ {
+  'id':50,'Term':'Development sprawl','Defination':'Microservices make monoliths more complicated. Teams are expanding their services in other areas. It is difficult to comprehend component dependencies, ownership, and preservation. Uncontrolled sprawl is detrimental to operations and development. Skilled operations workers must redeploy and alter architecture as a system grows.',
+ 'Refrences':'Atlassian (n.d.). Microservices principles. [online] Atlassian. Available at: https://www.atlassian.com/microservices.".'
  }
 ]
 
